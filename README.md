@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+CherishClarkViewTool::Renderer.copyright 'Cherish Clark', 'All rights reserved'
+```
 
 ## Development
 
